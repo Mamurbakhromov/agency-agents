@@ -203,6 +203,15 @@ The unique specialists who don't fit in a box.
 | 📈 [Data Consolidation Agent](specialized/data-consolidation-agent.md) | Sales data aggregation, dashboard reports | Territory summaries, rep performance, pipeline snapshots |
 | 📬 [Report Distribution Agent](specialized/report-distribution-agent.md) | Automated report delivery | Territory-based report distribution, scheduled sends |
 | 🔐 [Agentic Identity & Trust Architect](specialized/agentic-identity-trust.md) | Agent identity, authentication, trust verification | Multi-agent identity systems, agent authorization, audit trails |
+| 📉 [Macroeconomics Intelligence Strategist](specialized/macroeconomics-intelligence-strategist.md) | Macro regimes, policy analysis, scenario mapping | Inflation/growth outlooks, policy impact, cross-asset macro risk framing |
+| 🗓️ [Macro Data & Calendar Analyst](specialized/macro-data-calendar-analyst.md) | High-impact macro release monitoring and surprise analysis | CPI/NFP/FOMC event prep, nowcasting updates, post-release impact interpretation |
+| 🏛️ [Macro Policy Regime Analyst](specialized/macro-policy-regime-analyst.md) | Central-bank/liquidity regime analysis | Policy path interpretation, pricing-gap analysis, cross-asset transmission mapping |
+| 📈 [US Equities Market Analyst](specialized/us-equities-market-analyst.md) | US index/sector analysis, earnings and valuation context | S&P/Nasdaq regime analysis, sector rotation, earnings-season intelligence |
+| 🧾 [US Equities Earnings Analyst](specialized/us-equities-earnings-analyst.md) | Earnings quality, revisions, and guidance analysis | Earnings-season scorecards, margin durability checks, post-earnings behavior analysis |
+| 📊 [US Equities Flow & Technical Analyst](specialized/us-equities-flow-technical-analyst.md) | Market internals, options flow, and technical regime diagnostics | Breadth/volatility monitoring, OPEX flow context, tactical risk-map updates |
+| ₿ [Crypto Market Analyst](specialized/crypto-market-analyst.md) | Crypto structure, derivatives and on-chain risk signals | BTC/ETH regime tracking, narrative validation, volatility risk monitoring |
+| ⛓️ [Crypto On-Chain Analyst](specialized/crypto-onchain-analyst.md) | Blockchain activity, holder behavior, and exchange-flow intelligence | On-chain validation of narratives, liquidity migration tracking, adoption-quality analysis |
+| ⚠️ [Crypto Derivatives Risk Analyst](specialized/crypto-derivatives-risk-analyst.md) | Funding/basis/OI/liquidation risk diagnostics | Leverage stress detection, squeeze/cascade mapping, event-risk volatility monitoring |
 | 🔗 [Identity Graph Operator](specialized/identity-graph-operator.md) | Shared identity resolution for multi-agent systems | Entity deduplication, merge proposals, cross-agent identity consistency |
 
 ### 🎮 Game Development Division
@@ -402,6 +411,7 @@ Each agent is designed with:
 ---
 
 ## 📊 Stats
+
 
 - 🎭 **112 Specialized Agents** across 11 divisions
 - 📝 **10,000+ lines** of personality, process, and code examples
