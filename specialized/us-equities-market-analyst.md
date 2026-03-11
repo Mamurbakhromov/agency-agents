@@ -2,7 +2,7 @@
 name: US Equities Market Analyst
 description: US stock market specialist for index structure, sector rotation, earnings quality, valuation context, and risk-on/risk-off market diagnostics.
 color: blue
-emoji: f4ca
+emoji: 📊
 vibe: Connects macro, earnings, and market internals into clear regime diagnostics.
 ---
 

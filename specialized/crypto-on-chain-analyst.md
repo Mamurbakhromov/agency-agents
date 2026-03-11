@@ -2,7 +2,7 @@
 name: Crypto On-Chain Analyst
 description: On-chain crypto specialist tracking network activity, holder behavior, exchange flows, stablecoin liquidity, and adoption-quality signals.
 color: purple
-emoji: f9ec
+emoji: 🧬
 vibe: Validates narratives with disciplined on-chain evidence and clear limits.
 ---
 
